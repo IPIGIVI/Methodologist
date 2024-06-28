@@ -1,0 +1,608 @@
+D:\Visual Studio проба\Отделение\Отделение\bin\Debug\Отделение.exe.config
+D:\Visual Studio проба\Отделение\Отделение\bin\Debug\Отделение.exe
+D:\Visual Studio проба\Отделение\Отделение\bin\Debug\Отделение.pdb
+D:\Visual Studio проба\Отделение\Отделение\bin\Debug\Отделение.xml
+D:\Visual Studio проба\Отделение\Отделение\bin\Debug\FontAwesome.Sharp.dll
+D:\Visual Studio проба\Отделение\Отделение\obj\Debug\Отделение.vbproj.AssemblyReference.cache
+D:\Visual Studio проба\Отделение\Отделение\obj\Debug\Отделение.vbproj.SuggestedBindingRedirects.cache
+D:\Visual Studio проба\Отделение\Отделение\obj\Debug\Отделение.Form1.resources
+D:\Visual Studio проба\Отделение\Отделение\obj\Debug\Отделение.Resources.resources
+D:\Visual Studio проба\Отделение\Отделение\obj\Debug\Отделение.vbproj.GenerateResource.cache
+D:\Visual Studio проба\Отделение\Отделение\obj\Debug\Отделение.vbproj.CoreCompileInputs.cache
+D:\Visual Studio проба\Отделение\Отделение\obj\Debug\Отделение.vbproj.CopyComplete
+D:\Visual Studio проба\Отделение\Отделение\obj\Debug\Отделение.exe
+D:\Visual Studio проба\Отделение\Отделение\obj\Debug\Отделение.xml
+D:\Visual Studio проба\Отделение\Отделение\obj\Debug\Отделение.pdb
+D:\Visual Studio проба\Отделение — копия (2)\Отделение\obj\Debug\Отделение.vbproj.AssemblyReference.cache
+D:\Visual Studio проба\Отделение — копия (2)\Отделение\obj\Debug\Отделение.vbproj.SuggestedBindingRedirects.cache
+D:\Visual Studio проба\Отделение — копия (2)\Отделение\obj\Debug\Отделение.Form1.resources
+D:\Visual Studio проба\Отделение — копия (2)\Отделение\obj\Debug\Отделение.Resources.resources
+D:\Visual Studio проба\Отделение — копия (2)\Отделение\obj\Debug\Отделение.Выговоры.resources
+D:\Visual Studio проба\Отделение — копия (2)\Отделение\obj\Debug\Отделение.ДобавлениеВыговора.resources
+D:\Visual Studio проба\Отделение — копия (2)\Отделение\obj\Debug\Отделение.vbproj.GenerateResource.cache
+D:\Visual Studio проба\Отделение — копия (2)\Отделение\obj\Debug\Отделение.vbproj.CoreCompileInputs.cache
+D:\Visual Studio проба\Отделение — копия (2)\Отделение\obj\Debug\Отделение.exe
+D:\Visual Studio проба\Отделение — копия (2)\Отделение\obj\Debug\Отделение.xml
+D:\Visual Studio проба\Отделение — копия (2)\Отделение\obj\Debug\Отделение.pdb
+D:\Visual Studio проба\Отделение — копия (2)\Отделение\bin\Debug\Новые базы данны.accdb
+D:\Visual Studio проба\Отделение — копия (2)\Отделение\bin\Debug\Отделение.exe.config
+D:\Visual Studio проба\Отделение — копия (2)\Отделение\bin\Debug\Отделение.exe
+D:\Visual Studio проба\Отделение — копия (2)\Отделение\bin\Debug\Отделение.pdb
+D:\Visual Studio проба\Отделение — копия (2)\Отделение\bin\Debug\Отделение.xml
+D:\Visual Studio проба\Отделение — копия (2)\Отделение\bin\Debug\FontAwesome.Sharp.dll
+D:\Visual Studio проба\Отделение — копия (2)\Отделение\obj\Debug\Отделение.vbproj.CopyComplete
+D:\Visual Studio проба\Отделение — копия (2)\Отделение\obj\Debug\Отделение.РедГрупп.resources
+D:\Visual Studio проба\Отделение — копия (2)\Отделение\obj\Debug\Отделение.Добавить.resources
+D:\Visual Studio проба\Отделение — копия (2)\Отделение\obj\Debug\Отделение.ДобЗан.resources
+D:\Visual Studio проба\Отделение — копия (2)\Отделение\obj\Debug\Отделение.Занятия.resources
+D:\Visual Studio проба\Отделение — копия (2)\Отделение\obj\Debug\Отделение.Премия.resources
+D:\Visual Studio проба\Отделение — копия (2)\Отделение\obj\Debug\Отделение.РасчетПремии.resources
+D:\Visual Studio проба\Отделение — копия (2)\Отделение\obj\Debug\Отделение.ДобПрепод.resources
+D:\Visual Studio проба\Отделение — копия (2)\Отделение\obj\Debug\Отделение.РедПрепод.resources
+D:\Visual Studio проба\Отделение — копия (2)\Отделение\obj\Debug\Отделение.ДобавлениеСтуд.resources
+D:\Visual Studio проба\Отделение — копия (2)\Отделение\obj\Debug\Отделение.Досье.resources
+D:\Visual Studio проба\Отделение — копия (2)\Отделение\obj\Debug\Отделение.РедСтуд.resources
+D:\Visual Studio проба\Отделение — копия (2)\Отделение\obj\Debug\Отделение.СтудР.resources
+D:\Visual Studio проба\Курмач\чтобы можно увеличить\Отделение\bin\Debug\Новые базы данны.accdb
+D:\Visual Studio проба\Курмач\чтобы можно увеличить\Отделение\bin\Debug\Отделение.exe.config
+D:\Visual Studio проба\Курмач\чтобы можно увеличить\Отделение\bin\Debug\Отделение.exe
+D:\Visual Studio проба\Курмач\чтобы можно увеличить\Отделение\bin\Debug\Отделение.pdb
+D:\Visual Studio проба\Курмач\чтобы можно увеличить\Отделение\bin\Debug\Отделение.xml
+D:\Visual Studio проба\Курмач\чтобы можно увеличить\Отделение\bin\Debug\FontAwesome.Sharp.dll
+D:\Visual Studio проба\Курмач\чтобы можно увеличить\Отделение\obj\Debug\Отделение.vbproj.AssemblyReference.cache
+D:\Visual Studio проба\Курмач\чтобы можно увеличить\Отделение\obj\Debug\Отделение.vbproj.SuggestedBindingRedirects.cache
+D:\Visual Studio проба\Курмач\чтобы можно увеличить\Отделение\obj\Debug\Отделение.Form1.resources
+D:\Visual Studio проба\Курмач\чтобы можно увеличить\Отделение\obj\Debug\Отделение.Resources.resources
+D:\Visual Studio проба\Курмач\чтобы можно увеличить\Отделение\obj\Debug\Отделение.Выговоры.resources
+D:\Visual Studio проба\Курмач\чтобы можно увеличить\Отделение\obj\Debug\Отделение.ДобавлениеВыговора.resources
+D:\Visual Studio проба\Курмач\чтобы можно увеличить\Отделение\obj\Debug\Отделение.Премия.resources
+D:\Visual Studio проба\Курмач\чтобы можно увеличить\Отделение\obj\Debug\Отделение.РасчетПремии.resources
+D:\Visual Studio проба\Курмач\чтобы можно увеличить\Отделение\obj\Debug\Отделение.РедГрупп.resources
+D:\Visual Studio проба\Курмач\чтобы можно увеличить\Отделение\obj\Debug\Отделение.Добавить.resources
+D:\Visual Studio проба\Курмач\чтобы можно увеличить\Отделение\obj\Debug\Отделение.ДобЗан.resources
+D:\Visual Studio проба\Курмач\чтобы можно увеличить\Отделение\obj\Debug\Отделение.Занятия.resources
+D:\Visual Studio проба\Курмач\чтобы можно увеличить\Отделение\obj\Debug\Отделение.ДобПрепод.resources
+D:\Visual Studio проба\Курмач\чтобы можно увеличить\Отделение\obj\Debug\Отделение.РедПрепод.resources
+D:\Visual Studio проба\Курмач\чтобы можно увеличить\Отделение\obj\Debug\Отделение.ДобавлениеСтуд.resources
+D:\Visual Studio проба\Курмач\чтобы можно увеличить\Отделение\obj\Debug\Отделение.Досье.resources
+D:\Visual Studio проба\Курмач\чтобы можно увеличить\Отделение\obj\Debug\Отделение.РедСтуд.resources
+D:\Visual Studio проба\Курмач\чтобы можно увеличить\Отделение\obj\Debug\Отделение.СтудР.resources
+D:\Visual Studio проба\Курмач\чтобы можно увеличить\Отделение\obj\Debug\Отделение.vbproj.GenerateResource.cache
+D:\Visual Studio проба\Курмач\чтобы можно увеличить\Отделение\obj\Debug\Отделение.vbproj.CoreCompileInputs.cache
+D:\Visual Studio проба\Курмач\чтобы можно увеличить\Отделение\obj\Debug\Отделение.vbproj.CopyComplete
+D:\Visual Studio проба\Курмач\чтобы можно увеличить\Отделение\obj\Debug\Отделение.exe
+D:\Visual Studio проба\Курмач\чтобы можно увеличить\Отделение\obj\Debug\Отделение.xml
+D:\Visual Studio проба\Курмач\чтобы можно увеличить\Отделение\obj\Debug\Отделение.pdb
+D:\Visual Studio проба\Курмач\Иконки\Отделение\bin\Debug\Новые базы данны.accdb
+D:\Visual Studio проба\Курмач\Иконки\Отделение\bin\Debug\Отделение.exe.config
+D:\Visual Studio проба\Курмач\Иконки\Отделение\bin\Debug\Отделение.exe
+D:\Visual Studio проба\Курмач\Иконки\Отделение\bin\Debug\Отделение.pdb
+D:\Visual Studio проба\Курмач\Иконки\Отделение\bin\Debug\Отделение.xml
+D:\Visual Studio проба\Курмач\Иконки\Отделение\bin\Debug\FontAwesome.Sharp.dll
+D:\Visual Studio проба\Курмач\Иконки\Отделение\obj\Debug\Отделение.vbproj.AssemblyReference.cache
+D:\Visual Studio проба\Курмач\Иконки\Отделение\obj\Debug\Отделение.vbproj.SuggestedBindingRedirects.cache
+D:\Visual Studio проба\Курмач\Иконки\Отделение\obj\Debug\Отделение.Form1.resources
+D:\Visual Studio проба\Курмач\Иконки\Отделение\obj\Debug\Отделение.Resources.resources
+D:\Visual Studio проба\Курмач\Иконки\Отделение\obj\Debug\Отделение.Выговоры.resources
+D:\Visual Studio проба\Курмач\Иконки\Отделение\obj\Debug\Отделение.ДобавлениеВыговора.resources
+D:\Visual Studio проба\Курмач\Иконки\Отделение\obj\Debug\Отделение.Премия.resources
+D:\Visual Studio проба\Курмач\Иконки\Отделение\obj\Debug\Отделение.РасчетПремии.resources
+D:\Visual Studio проба\Курмач\Иконки\Отделение\obj\Debug\Отделение.РедГрупп.resources
+D:\Visual Studio проба\Курмач\Иконки\Отделение\obj\Debug\Отделение.Добавить.resources
+D:\Visual Studio проба\Курмач\Иконки\Отделение\obj\Debug\Отделение.ДобЗан.resources
+D:\Visual Studio проба\Курмач\Иконки\Отделение\obj\Debug\Отделение.Занятия.resources
+D:\Visual Studio проба\Курмач\Иконки\Отделение\obj\Debug\Отделение.ДобПрепод.resources
+D:\Visual Studio проба\Курмач\Иконки\Отделение\obj\Debug\Отделение.РедПрепод.resources
+D:\Visual Studio проба\Курмач\Иконки\Отделение\obj\Debug\Отделение.ДобавлениеСтуд.resources
+D:\Visual Studio проба\Курмач\Иконки\Отделение\obj\Debug\Отделение.Досье.resources
+D:\Visual Studio проба\Курмач\Иконки\Отделение\obj\Debug\Отделение.РедСтуд.resources
+D:\Visual Studio проба\Курмач\Иконки\Отделение\obj\Debug\Отделение.СтудР.resources
+D:\Visual Studio проба\Курмач\Иконки\Отделение\obj\Debug\Отделение.vbproj.GenerateResource.cache
+D:\Visual Studio проба\Курмач\Иконки\Отделение\obj\Debug\Отделение.vbproj.CoreCompileInputs.cache
+D:\Visual Studio проба\Курмач\Иконки\Отделение\obj\Debug\Отделение.vbproj.CopyComplete
+D:\Visual Studio проба\Курмач\Иконки\Отделение\obj\Debug\Отделение.exe
+D:\Visual Studio проба\Курмач\Иконки\Отделение\obj\Debug\Отделение.xml
+D:\Visual Studio проба\Курмач\Иконки\Отделение\obj\Debug\Отделение.pdb
+D:\Visual Studio проба\Курсач\11.11 последняя версия\Отделение\bin\Debug\Новые базы данны.accdb
+D:\Visual Studio проба\Курсач\11.11 последняя версия\Отделение\bin\Debug\Отделение.exe.config
+D:\Visual Studio проба\Курсач\11.11 последняя версия\Отделение\bin\Debug\Отделение.exe
+D:\Visual Studio проба\Курсач\11.11 последняя версия\Отделение\bin\Debug\Отделение.pdb
+D:\Visual Studio проба\Курсач\11.11 последняя версия\Отделение\bin\Debug\Отделение.xml
+D:\Visual Studio проба\Курсач\11.11 последняя версия\Отделение\bin\Debug\FontAwesome.Sharp.dll
+D:\Visual Studio проба\Курсач\11.11 последняя версия\Отделение\obj\Debug\Отделение.vbproj.AssemblyReference.cache
+D:\Visual Studio проба\Курсач\11.11 последняя версия\Отделение\obj\Debug\Отделение.vbproj.SuggestedBindingRedirects.cache
+D:\Visual Studio проба\Курсач\11.11 последняя версия\Отделение\obj\Debug\Отделение.Form1.resources
+D:\Visual Studio проба\Курсач\11.11 последняя версия\Отделение\obj\Debug\Отделение.Resources.resources
+D:\Visual Studio проба\Курсач\11.11 последняя версия\Отделение\obj\Debug\Отделение.Выговоры.resources
+D:\Visual Studio проба\Курсач\11.11 последняя версия\Отделение\obj\Debug\Отделение.ДобавлениеВыговора.resources
+D:\Visual Studio проба\Курсач\11.11 последняя версия\Отделение\obj\Debug\Отделение.Премия.resources
+D:\Visual Studio проба\Курсач\11.11 последняя версия\Отделение\obj\Debug\Отделение.РасчетПремии.resources
+D:\Visual Studio проба\Курсач\11.11 последняя версия\Отделение\obj\Debug\Отделение.РедГрупп.resources
+D:\Visual Studio проба\Курсач\11.11 последняя версия\Отделение\obj\Debug\Отделение.Добавить.resources
+D:\Visual Studio проба\Курсач\11.11 последняя версия\Отделение\obj\Debug\Отделение.ДобЗан.resources
+D:\Visual Studio проба\Курсач\11.11 последняя версия\Отделение\obj\Debug\Отделение.Занятия.resources
+D:\Visual Studio проба\Курсач\11.11 последняя версия\Отделение\obj\Debug\Отделение.ДобПрепод.resources
+D:\Visual Studio проба\Курсач\11.11 последняя версия\Отделение\obj\Debug\Отделение.РедПрепод.resources
+D:\Visual Studio проба\Курсач\11.11 последняя версия\Отделение\obj\Debug\Отделение.ДобавлениеСтуд.resources
+D:\Visual Studio проба\Курсач\11.11 последняя версия\Отделение\obj\Debug\Отделение.Досье.resources
+D:\Visual Studio проба\Курсач\11.11 последняя версия\Отделение\obj\Debug\Отделение.РедСтуд.resources
+D:\Visual Studio проба\Курсач\11.11 последняя версия\Отделение\obj\Debug\Отделение.СтудР.resources
+D:\Visual Studio проба\Курсач\11.11 последняя версия\Отделение\obj\Debug\Отделение.Экз.resources
+D:\Visual Studio проба\Курсач\11.11 последняя версия\Отделение\obj\Debug\Отделение.vbproj.GenerateResource.cache
+D:\Visual Studio проба\Курсач\11.11 последняя версия\Отделение\obj\Debug\Отделение.vbproj.CoreCompileInputs.cache
+D:\Visual Studio проба\Курсач\11.11 последняя версия\Отделение\obj\Debug\Отделение.vbproj.CopyComplete
+D:\Visual Studio проба\Курсач\11.11 последняя версия\Отделение\obj\Debug\Отделение.exe
+D:\Visual Studio проба\Курсач\11.11 последняя версия\Отделение\obj\Debug\Отделение.xml
+D:\Visual Studio проба\Курсач\11.11 последняя версия\Отделение\obj\Debug\Отделение.pdb
+D:\Visual Studio проба\Курсач\11.11 последняя версия\Отделение\obj\Debug\Отделение.РедЭкз.resources
+D:\Visual Studio проба\Курсач\Колендарь\Отделение\bin\Debug\Новые базы данны.accdb
+D:\Visual Studio проба\Курсач\Колендарь\Отделение\bin\Debug\Отделение.exe.config
+D:\Visual Studio проба\Курсач\Колендарь\Отделение\bin\Debug\Отделение.exe
+D:\Visual Studio проба\Курсач\Колендарь\Отделение\bin\Debug\Отделение.pdb
+D:\Visual Studio проба\Курсач\Колендарь\Отделение\bin\Debug\Отделение.xml
+D:\Visual Studio проба\Курсач\Колендарь\Отделение\bin\Debug\FontAwesome.Sharp.dll
+D:\Visual Studio проба\Курсач\Колендарь\Отделение\obj\Debug\Отделение.vbproj.AssemblyReference.cache
+D:\Visual Studio проба\Курсач\Колендарь\Отделение\obj\Debug\Отделение.vbproj.SuggestedBindingRedirects.cache
+D:\Visual Studio проба\Курсач\Колендарь\Отделение\obj\Debug\Отделение.Form1.resources
+D:\Visual Studio проба\Курсач\Колендарь\Отделение\obj\Debug\Отделение.Resources.resources
+D:\Visual Studio проба\Курсач\Колендарь\Отделение\obj\Debug\Отделение.Выговоры.resources
+D:\Visual Studio проба\Курсач\Колендарь\Отделение\obj\Debug\Отделение.ДобавлениеВыговора.resources
+D:\Visual Studio проба\Курсач\Колендарь\Отделение\obj\Debug\Отделение.Премия.resources
+D:\Visual Studio проба\Курсач\Колендарь\Отделение\obj\Debug\Отделение.РасчетПремии.resources
+D:\Visual Studio проба\Курсач\Колендарь\Отделение\obj\Debug\Отделение.РедГрупп.resources
+D:\Visual Studio проба\Курсач\Колендарь\Отделение\obj\Debug\Отделение.Добавить.resources
+D:\Visual Studio проба\Курсач\Колендарь\Отделение\obj\Debug\Отделение.ДобЗан.resources
+D:\Visual Studio проба\Курсач\Колендарь\Отделение\obj\Debug\Отделение.Занятия.resources
+D:\Visual Studio проба\Курсач\Колендарь\Отделение\obj\Debug\Отделение.ДобПрепод.resources
+D:\Visual Studio проба\Курсач\Колендарь\Отделение\obj\Debug\Отделение.РедПрепод.resources
+D:\Visual Studio проба\Курсач\Колендарь\Отделение\obj\Debug\Отделение.ДобавлениеСтуд.resources
+D:\Visual Studio проба\Курсач\Колендарь\Отделение\obj\Debug\Отделение.Досье.resources
+D:\Visual Studio проба\Курсач\Колендарь\Отделение\obj\Debug\Отделение.РедСтуд.resources
+D:\Visual Studio проба\Курсач\Колендарь\Отделение\obj\Debug\Отделение.СтудР.resources
+D:\Visual Studio проба\Курсач\Колендарь\Отделение\obj\Debug\Отделение.РедЭкз.resources
+D:\Visual Studio проба\Курсач\Колендарь\Отделение\obj\Debug\Отделение.Экз.resources
+D:\Visual Studio проба\Курсач\Колендарь\Отделение\obj\Debug\Отделение.vbproj.GenerateResource.cache
+D:\Visual Studio проба\Курсач\Колендарь\Отделение\obj\Debug\Отделение.vbproj.CoreCompileInputs.cache
+D:\Visual Studio проба\Курсач\Колендарь\Отделение\obj\Debug\Отделение.vbproj.CopyComplete
+D:\Visual Studio проба\Курсач\Колендарь\Отделение\obj\Debug\Отделение.exe
+D:\Visual Studio проба\Курсач\Колендарь\Отделение\obj\Debug\Отделение.xml
+D:\Visual Studio проба\Курсач\Колендарь\Отделение\obj\Debug\Отделение.pdb
+D:\Visual Studio проба\Послед 13.11\Послед\Отделение\bin\Debug\Новые базы данны.accdb
+D:\Visual Studio проба\Послед 13.11\Послед\Отделение\bin\Debug\Отделение.exe.config
+D:\Visual Studio проба\Послед 13.11\Послед\Отделение\bin\Debug\Отделение.exe
+D:\Visual Studio проба\Послед 13.11\Послед\Отделение\bin\Debug\Отделение.pdb
+D:\Visual Studio проба\Послед 13.11\Послед\Отделение\bin\Debug\Отделение.xml
+D:\Visual Studio проба\Послед 13.11\Послед\Отделение\bin\Debug\FontAwesome.Sharp.dll
+D:\Visual Studio проба\Послед 13.11\Послед\Отделение\obj\Debug\Отделение.vbproj.AssemblyReference.cache
+D:\Visual Studio проба\Послед 13.11\Послед\Отделение\obj\Debug\Отделение.vbproj.SuggestedBindingRedirects.cache
+D:\Visual Studio проба\Послед 13.11\Послед\Отделение\obj\Debug\Отделение.Form1.resources
+D:\Visual Studio проба\Послед 13.11\Послед\Отделение\obj\Debug\Отделение.Resources.resources
+D:\Visual Studio проба\Послед 13.11\Послед\Отделение\obj\Debug\Отделение.Выговоры.resources
+D:\Visual Studio проба\Послед 13.11\Послед\Отделение\obj\Debug\Отделение.ДобавлениеВыговора.resources
+D:\Visual Studio проба\Послед 13.11\Послед\Отделение\obj\Debug\Отделение.Премия.resources
+D:\Visual Studio проба\Послед 13.11\Послед\Отделение\obj\Debug\Отделение.РасчетПремии.resources
+D:\Visual Studio проба\Послед 13.11\Послед\Отделение\obj\Debug\Отделение.РедГрупп.resources
+D:\Visual Studio проба\Послед 13.11\Послед\Отделение\obj\Debug\Отделение.Добавить.resources
+D:\Visual Studio проба\Послед 13.11\Послед\Отделение\obj\Debug\Отделение.ДобЗан.resources
+D:\Visual Studio проба\Послед 13.11\Послед\Отделение\obj\Debug\Отделение.Занятия.resources
+D:\Visual Studio проба\Послед 13.11\Послед\Отделение\obj\Debug\Отделение.ДобПрепод.resources
+D:\Visual Studio проба\Послед 13.11\Послед\Отделение\obj\Debug\Отделение.РедПрепод.resources
+D:\Visual Studio проба\Послед 13.11\Послед\Отделение\obj\Debug\Отделение.ДобавлениеСтуд.resources
+D:\Visual Studio проба\Послед 13.11\Послед\Отделение\obj\Debug\Отделение.Досье.resources
+D:\Visual Studio проба\Послед 13.11\Послед\Отделение\obj\Debug\Отделение.РедСтуд.resources
+D:\Visual Studio проба\Послед 13.11\Послед\Отделение\obj\Debug\Отделение.РедЭкз.resources
+D:\Visual Studio проба\Послед 13.11\Послед\Отделение\obj\Debug\Отделение.Экз.resources
+D:\Visual Studio проба\Послед 13.11\Послед\Отделение\obj\Debug\Отделение.vbproj.GenerateResource.cache
+D:\Visual Studio проба\Послед 13.11\Послед\Отделение\obj\Debug\Отделение.vbproj.CoreCompileInputs.cache
+D:\Visual Studio проба\Послед 13.11\Послед\Отделение\obj\Debug\Отделение.vbproj.CopyComplete
+D:\Visual Studio проба\Послед 13.11\Послед\Отделение\obj\Debug\Отделение.exe
+D:\Visual Studio проба\Послед 13.11\Послед\Отделение\obj\Debug\Отделение.xml
+D:\Visual Studio проба\Послед 13.11\Послед\Отделение\obj\Debug\Отделение.pdb
+C:\Users\шу\Desktop\ПР\Отделение\bin\Debug\Новые базы данны.accdb
+C:\Users\шу\Desktop\ПР\Отделение\bin\Debug\Отделение.exe.config
+C:\Users\шу\Desktop\ПР\Отделение\bin\Debug\Отделение.exe
+C:\Users\шу\Desktop\ПР\Отделение\bin\Debug\Отделение.pdb
+C:\Users\шу\Desktop\ПР\Отделение\bin\Debug\Отделение.xml
+C:\Users\шу\Desktop\ПР\Отделение\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\шу\Desktop\ПР\Отделение\obj\Debug\Отделение.vbproj.AssemblyReference.cache
+C:\Users\шу\Desktop\ПР\Отделение\obj\Debug\Отделение.vbproj.SuggestedBindingRedirects.cache
+C:\Users\шу\Desktop\ПР\Отделение\obj\Debug\Отделение.Form1.resources
+C:\Users\шу\Desktop\ПР\Отделение\obj\Debug\Отделение.Resources.resources
+C:\Users\шу\Desktop\ПР\Отделение\obj\Debug\Отделение.Выговоры.resources
+C:\Users\шу\Desktop\ПР\Отделение\obj\Debug\Отделение.ДобавлениеВыговора.resources
+C:\Users\шу\Desktop\ПР\Отделение\obj\Debug\Отделение.Премия.resources
+C:\Users\шу\Desktop\ПР\Отделение\obj\Debug\Отделение.РасчетПремии.resources
+C:\Users\шу\Desktop\ПР\Отделение\obj\Debug\Отделение.РедГрупп.resources
+C:\Users\шу\Desktop\ПР\Отделение\obj\Debug\Отделение.Добавить.resources
+C:\Users\шу\Desktop\ПР\Отделение\obj\Debug\Отделение.ДобЗан.resources
+C:\Users\шу\Desktop\ПР\Отделение\obj\Debug\Отделение.Занятия.resources
+C:\Users\шу\Desktop\ПР\Отделение\obj\Debug\Отделение.ДобПрепод.resources
+C:\Users\шу\Desktop\ПР\Отделение\obj\Debug\Отделение.РедПрепод.resources
+C:\Users\шу\Desktop\ПР\Отделение\obj\Debug\Отделение.ДобавлениеСтуд.resources
+C:\Users\шу\Desktop\ПР\Отделение\obj\Debug\Отделение.Досье.resources
+C:\Users\шу\Desktop\ПР\Отделение\obj\Debug\Отделение.РедСтуд.resources
+C:\Users\шу\Desktop\ПР\Отделение\obj\Debug\Отделение.РедЭкз.resources
+C:\Users\шу\Desktop\ПР\Отделение\obj\Debug\Отделение.Экз.resources
+C:\Users\шу\Desktop\ПР\Отделение\obj\Debug\Отделение.vbproj.GenerateResource.cache
+C:\Users\шу\Desktop\ПР\Отделение\obj\Debug\Отделение.vbproj.CoreCompileInputs.cache
+C:\Users\шу\Desktop\ПР\Отделение\obj\Debug\Отделение.vbproj.CopyComplete
+C:\Users\шу\Desktop\ПР\Отделение\obj\Debug\Отделение.exe
+C:\Users\шу\Desktop\ПР\Отделение\obj\Debug\Отделение.xml
+C:\Users\шу\Desktop\ПР\Отделение\obj\Debug\Отделение.pdb
+C:\Users\шу\Desktop\Крсовая работоа\Курсовая работа\Отделение\bin\Debug\Новые базы данны.accdb
+C:\Users\шу\Desktop\Крсовая работоа\Курсовая работа\Отделение\bin\Debug\Отделение.exe.config
+C:\Users\шу\Desktop\Крсовая работоа\Курсовая работа\Отделение\bin\Debug\Отделение.exe
+C:\Users\шу\Desktop\Крсовая работоа\Курсовая работа\Отделение\bin\Debug\Отделение.pdb
+C:\Users\шу\Desktop\Крсовая работоа\Курсовая работа\Отделение\bin\Debug\Отделение.xml
+C:\Users\шу\Desktop\Крсовая работоа\Курсовая работа\Отделение\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\шу\Desktop\Крсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.vbproj.AssemblyReference.cache
+C:\Users\шу\Desktop\Крсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.vbproj.SuggestedBindingRedirects.cache
+C:\Users\шу\Desktop\Крсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.Form1.resources
+C:\Users\шу\Desktop\Крсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.Resources.resources
+C:\Users\шу\Desktop\Крсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.Выговоры.resources
+C:\Users\шу\Desktop\Крсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.ДобавлениеВыговора.resources
+C:\Users\шу\Desktop\Крсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.Премия.resources
+C:\Users\шу\Desktop\Крсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.РасчетПремии.resources
+C:\Users\шу\Desktop\Крсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.РедГрупп.resources
+C:\Users\шу\Desktop\Крсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.Добавить.resources
+C:\Users\шу\Desktop\Крсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.ДобЗан.resources
+C:\Users\шу\Desktop\Крсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.Занятия.resources
+C:\Users\шу\Desktop\Крсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.ДобПрепод.resources
+C:\Users\шу\Desktop\Крсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.РедПрепод.resources
+C:\Users\шу\Desktop\Крсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.ДобавлениеСтуд.resources
+C:\Users\шу\Desktop\Крсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.Досье.resources
+C:\Users\шу\Desktop\Крсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.РедСтуд.resources
+C:\Users\шу\Desktop\Крсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.РедЭкз.resources
+C:\Users\шу\Desktop\Крсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.Экз.resources
+C:\Users\шу\Desktop\Крсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.vbproj.GenerateResource.cache
+C:\Users\шу\Desktop\Крсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.vbproj.CoreCompileInputs.cache
+C:\Users\шу\Desktop\Крсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.vbproj.CopyComplete
+C:\Users\шу\Desktop\Крсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.exe
+C:\Users\шу\Desktop\Крсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.xml
+C:\Users\шу\Desktop\Крсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.pdb
+C:\Users\шу\Desktop\Курсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.vbproj.AssemblyReference.cache
+C:\Users\шу\Desktop\Курсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.vbproj.SuggestedBindingRedirects.cache
+C:\Users\шу\Desktop\Курсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.Form1.resources
+C:\Users\шу\Desktop\Курсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.Resources.resources
+C:\Users\шу\Desktop\Курсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.Выговоры.resources
+C:\Users\шу\Desktop\Курсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.ДобавлениеВыговора.resources
+C:\Users\шу\Desktop\Курсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.РедактВыговоры.resources
+C:\Users\шу\Desktop\Курсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.Премия.resources
+C:\Users\шу\Desktop\Курсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.РасчетПремии.resources
+C:\Users\шу\Desktop\Курсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.РедГрупп.resources
+C:\Users\шу\Desktop\Курсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.Добавить.resources
+C:\Users\шу\Desktop\Курсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.ДобЗан.resources
+C:\Users\шу\Desktop\Курсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.Занятия.resources
+C:\Users\шу\Desktop\Курсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.ДобПрепод.resources
+C:\Users\шу\Desktop\Курсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.РедПрепод.resources
+C:\Users\шу\Desktop\Курсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.ДобавлениеСтуд.resources
+C:\Users\шу\Desktop\Курсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.Досье.resources
+C:\Users\шу\Desktop\Курсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.РедСтуд.resources
+C:\Users\шу\Desktop\Курсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.РедЭкз.resources
+C:\Users\шу\Desktop\Курсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.Экз.resources
+C:\Users\шу\Desktop\Курсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.vbproj.GenerateResource.cache
+C:\Users\шу\Desktop\Курсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.vbproj.CoreCompileInputs.cache
+C:\Users\шу\Desktop\Курсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.exe
+C:\Users\шу\Desktop\Курсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.xml
+C:\Users\шу\Desktop\Курсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.pdb
+C:\Users\шу\Desktop\Курсовая работоа\Курсовая работа\Отделение\bin\Debug\Новые базы данны.accdb
+C:\Users\шу\Desktop\Курсовая работоа\Курсовая работа\Отделение\bin\Debug\Отделение.exe.config
+C:\Users\шу\Desktop\Курсовая работоа\Курсовая работа\Отделение\bin\Debug\Отделение.exe
+C:\Users\шу\Desktop\Курсовая работоа\Курсовая работа\Отделение\bin\Debug\Отделение.pdb
+C:\Users\шу\Desktop\Курсовая работоа\Курсовая работа\Отделение\bin\Debug\Отделение.xml
+C:\Users\шу\Desktop\Курсовая работоа\Курсовая работа\Отделение\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\шу\Desktop\Курсовая работоа\Курсовая работа\Отделение\obj\Debug\Отделение.vbproj.CopyComplete
+C:\Users\шу\Desktop\Курсовая работоа — копия (2)\Курсовая работа\Отделение\bin\Debug\Пароли.accdb
+C:\Users\шу\Desktop\Курсовая работоа — копия (2)\Курсовая работа\Отделение\bin\Debug\Новые базы данны.accdb
+C:\Users\шу\Desktop\Курсовая работоа — копия (2)\Курсовая работа\Отделение\bin\Debug\Отделение.exe.config
+C:\Users\шу\Desktop\Курсовая работоа — копия (2)\Курсовая работа\Отделение\bin\Debug\Отделение.exe
+C:\Users\шу\Desktop\Курсовая работоа — копия (2)\Курсовая работа\Отделение\bin\Debug\Отделение.pdb
+C:\Users\шу\Desktop\Курсовая работоа — копия (2)\Курсовая работа\Отделение\bin\Debug\Отделение.xml
+C:\Users\шу\Desktop\Курсовая работоа — копия (2)\Курсовая работа\Отделение\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\шу\Desktop\Курсовая работоа — копия (2)\Курсовая работа\Отделение\obj\Debug\Отделение.vbproj.AssemblyReference.cache
+C:\Users\шу\Desktop\Курсовая работоа — копия (2)\Курсовая работа\Отделение\obj\Debug\Отделение.vbproj.SuggestedBindingRedirects.cache
+C:\Users\шу\Desktop\Курсовая работоа — копия (2)\Курсовая работа\Отделение\obj\Debug\Отделение.Form1.resources
+C:\Users\шу\Desktop\Курсовая работоа — копия (2)\Курсовая работа\Отделение\obj\Debug\Отделение.Resources.resources
+C:\Users\шу\Desktop\Курсовая работоа — копия (2)\Курсовая работа\Отделение\obj\Debug\Отделение.Выговоры.resources
+C:\Users\шу\Desktop\Курсовая работоа — копия (2)\Курсовая работа\Отделение\obj\Debug\Отделение.ДобавлениеВыговора.resources
+C:\Users\шу\Desktop\Курсовая работоа — копия (2)\Курсовая работа\Отделение\obj\Debug\Отделение.РедактВыговоры.resources
+C:\Users\шу\Desktop\Курсовая работоа — копия (2)\Курсовая работа\Отделение\obj\Debug\Отделение.Премия.resources
+C:\Users\шу\Desktop\Курсовая работоа — копия (2)\Курсовая работа\Отделение\obj\Debug\Отделение.РасчетПремии.resources
+C:\Users\шу\Desktop\Курсовая работоа — копия (2)\Курсовая работа\Отделение\obj\Debug\Отделение.РедГрупп.resources
+C:\Users\шу\Desktop\Курсовая работоа — копия (2)\Курсовая работа\Отделение\obj\Debug\Отделение.Добавить.resources
+C:\Users\шу\Desktop\Курсовая работоа — копия (2)\Курсовая работа\Отделение\obj\Debug\Отделение.ДобЗан.resources
+C:\Users\шу\Desktop\Курсовая работоа — копия (2)\Курсовая работа\Отделение\obj\Debug\Отделение.Занятия.resources
+C:\Users\шу\Desktop\Курсовая работоа — копия (2)\Курсовая работа\Отделение\obj\Debug\Отделение.ДобПрепод.resources
+C:\Users\шу\Desktop\Курсовая работоа — копия (2)\Курсовая работа\Отделение\obj\Debug\Отделение.РедПрепод.resources
+C:\Users\шу\Desktop\Курсовая работоа — копия (2)\Курсовая работа\Отделение\obj\Debug\Отделение.ДобавлениеСтуд.resources
+C:\Users\шу\Desktop\Курсовая работоа — копия (2)\Курсовая работа\Отделение\obj\Debug\Отделение.Досье.resources
+C:\Users\шу\Desktop\Курсовая работоа — копия (2)\Курсовая работа\Отделение\obj\Debug\Отделение.РедСтуд.resources
+C:\Users\шу\Desktop\Курсовая работоа — копия (2)\Курсовая работа\Отделение\obj\Debug\Отделение.РедЭкз.resources
+C:\Users\шу\Desktop\Курсовая работоа — копия (2)\Курсовая работа\Отделение\obj\Debug\Отделение.Экз.resources
+C:\Users\шу\Desktop\Курсовая работоа — копия (2)\Курсовая работа\Отделение\obj\Debug\Отделение.ОкноВхода.resources
+C:\Users\шу\Desktop\Курсовая работоа — копия (2)\Курсовая работа\Отделение\obj\Debug\Отделение.vbproj.GenerateResource.cache
+C:\Users\шу\Desktop\Курсовая работоа — копия (2)\Курсовая работа\Отделение\obj\Debug\Отделение.vbproj.CoreCompileInputs.cache
+C:\Users\шу\Desktop\Курсовая работоа — копия (2)\Курсовая работа\Отделение\obj\Debug\Отделение.vbproj.CopyComplete
+C:\Users\шу\Desktop\Курсовая работоа — копия (2)\Курсовая работа\Отделение\obj\Debug\Отделение.exe
+C:\Users\шу\Desktop\Курсовая работоа — копия (2)\Курсовая работа\Отделение\obj\Debug\Отделение.xml
+C:\Users\шу\Desktop\Курсовая работоа — копия (2)\Курсовая работа\Отделение\obj\Debug\Отделение.pdb
+C:\Users\шу\Desktop\Курсовая работоа — копия (2)\Курсовая работа\Отделение\obj\Debug\Отделение.user.resources
+C:\Users\шу\Desktop\Основная курсовая работа — копия\Курсовая работа\Отделение\obj\Debug\Отделение.vbproj.AssemblyReference.cache
+C:\Users\шу\Desktop\Основная курсовая работа — копия\Курсовая работа\Отделение\obj\Debug\Отделение.vbproj.SuggestedBindingRedirects.cache
+C:\Users\шу\Desktop\Основная курсовая работа — копия\Курсовая работа\Отделение\obj\Debug\Отделение.Form1.resources
+C:\Users\шу\Desktop\Основная курсовая работа — копия\Курсовая работа\Отделение\obj\Debug\Отделение.Resources.resources
+C:\Users\шу\Desktop\Основная курсовая работа — копия\Курсовая работа\Отделение\obj\Debug\Отделение.Выговоры.resources
+C:\Users\шу\Desktop\Основная курсовая работа — копия\Курсовая работа\Отделение\obj\Debug\Отделение.ДобавлениеВыговора.resources
+C:\Users\шу\Desktop\Основная курсовая работа — копия\Курсовая работа\Отделение\obj\Debug\Отделение.РедактВыговоры.resources
+C:\Users\шу\Desktop\Основная курсовая работа — копия\Курсовая работа\Отделение\obj\Debug\Отделение.user.resources
+C:\Users\шу\Desktop\Основная курсовая работа — копия\Курсовая работа\Отделение\obj\Debug\Отделение.Премия.resources
+C:\Users\шу\Desktop\Основная курсовая работа — копия\Курсовая работа\Отделение\obj\Debug\Отделение.РасчетПремии.resources
+C:\Users\шу\Desktop\Основная курсовая работа — копия\Курсовая работа\Отделение\obj\Debug\Отделение.РедГрупп.resources
+C:\Users\шу\Desktop\Основная курсовая работа — копия\Курсовая работа\Отделение\obj\Debug\Отделение.Добавить.resources
+C:\Users\шу\Desktop\Основная курсовая работа — копия\Курсовая работа\Отделение\obj\Debug\Отделение.ДобЗан.resources
+C:\Users\шу\Desktop\Основная курсовая работа — копия\Курсовая работа\Отделение\obj\Debug\Отделение.Занятия.resources
+C:\Users\шу\Desktop\Основная курсовая работа — копия\Курсовая работа\Отделение\obj\Debug\Отделение.ДобПрепод.resources
+C:\Users\шу\Desktop\Основная курсовая работа — копия\Курсовая работа\Отделение\obj\Debug\Отделение.РедПрепод.resources
+C:\Users\шу\Desktop\Основная курсовая работа — копия\Курсовая работа\Отделение\obj\Debug\Отделение.ДобавлениеСтуд.resources
+C:\Users\шу\Desktop\Основная курсовая работа — копия\Курсовая работа\Отделение\obj\Debug\Отделение.Досье.resources
+C:\Users\шу\Desktop\Основная курсовая работа — копия\Курсовая работа\Отделение\obj\Debug\Отделение.РедСтуд.resources
+C:\Users\шу\Desktop\Основная курсовая работа — копия\Курсовая работа\Отделение\obj\Debug\Отделение.РедЭкз.resources
+C:\Users\шу\Desktop\Основная курсовая работа — копия\Курсовая работа\Отделение\obj\Debug\Отделение.Экз.resources
+C:\Users\шу\Desktop\Основная курсовая работа — копия\Курсовая работа\Отделение\obj\Debug\Отделение.ОкноВхода.resources
+C:\Users\шу\Desktop\Основная курсовая работа — копия\Курсовая работа\Отделение\obj\Debug\Отделение.vbproj.GenerateResource.cache
+C:\Users\шу\Desktop\Основная курсовая работа — копия\Курсовая работа\Отделение\obj\Debug\Отделение.vbproj.CoreCompileInputs.cache
+C:\Users\шу\Desktop\Основная курсовая работа — копия\Курсовая работа\Отделение\obj\Debug\Отделение.exe
+C:\Users\шу\Desktop\Основная курсовая работа — копия\Курсовая работа\Отделение\obj\Debug\Отделение.xml
+C:\Users\шу\Desktop\Основная курсовая работа — копия\Курсовая работа\Отделение\obj\Debug\Отделение.pdb
+C:\Users\шу\Desktop\Основная курсовая работа — копия\Курсовая работа\Отделение\bin\Debug\Пароли.accdb
+C:\Users\шу\Desktop\Основная курсовая работа — копия\Курсовая работа\Отделение\bin\Debug\Новые базы данны.accdb
+C:\Users\шу\Desktop\Основная курсовая работа — копия\Курсовая работа\Отделение\bin\Debug\Отделение.exe.config
+C:\Users\шу\Desktop\Основная курсовая работа — копия\Курсовая работа\Отделение\bin\Debug\Отделение.exe
+C:\Users\шу\Desktop\Основная курсовая работа — копия\Курсовая работа\Отделение\bin\Debug\Отделение.pdb
+C:\Users\шу\Desktop\Основная курсовая работа — копия\Курсовая работа\Отделение\bin\Debug\Отделение.xml
+C:\Users\шу\Desktop\Основная курсовая работа — копия\Курсовая работа\Отделение\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\шу\Desktop\Основная курсовая работа — копия\Курсовая работа\Отделение\obj\Debug\Отделение.vbproj.CopyComplete
+C:\Users\шу\Desktop\Курсовая работа\Курсовая работа\Отделение\bin\Debug\Пароли.accdb
+C:\Users\шу\Desktop\Курсовая работа\Курсовая работа\Отделение\bin\Debug\Новые базы данны.accdb
+C:\Users\шу\Desktop\Курсовая работа\Курсовая работа\Отделение\bin\Debug\Отделение.exe.config
+C:\Users\шу\Desktop\Курсовая работа\Курсовая работа\Отделение\bin\Debug\Отделение.exe
+C:\Users\шу\Desktop\Курсовая работа\Курсовая работа\Отделение\bin\Debug\Отделение.pdb
+C:\Users\шу\Desktop\Курсовая работа\Курсовая работа\Отделение\bin\Debug\Отделение.xml
+C:\Users\шу\Desktop\Курсовая работа\Курсовая работа\Отделение\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\шу\Desktop\Курсовая работа\Курсовая работа\Отделение\obj\Debug\Отделение.vbproj.AssemblyReference.cache
+C:\Users\шу\Desktop\Курсовая работа\Курсовая работа\Отделение\obj\Debug\Отделение.vbproj.SuggestedBindingRedirects.cache
+C:\Users\шу\Desktop\Курсовая работа\Курсовая работа\Отделение\obj\Debug\Отделение.Form1.resources
+C:\Users\шу\Desktop\Курсовая работа\Курсовая работа\Отделение\obj\Debug\Отделение.Resources.resources
+C:\Users\шу\Desktop\Курсовая работа\Курсовая работа\Отделение\obj\Debug\Отделение.Выговоры.resources
+C:\Users\шу\Desktop\Курсовая работа\Курсовая работа\Отделение\obj\Debug\Отделение.ДобавлениеВыговора.resources
+C:\Users\шу\Desktop\Курсовая работа\Курсовая работа\Отделение\obj\Debug\Отделение.РедактВыговоры.resources
+C:\Users\шу\Desktop\Курсовая работа\Курсовая работа\Отделение\obj\Debug\Отделение.user.resources
+C:\Users\шу\Desktop\Курсовая работа\Курсовая работа\Отделение\obj\Debug\Отделение.Премия.resources
+C:\Users\шу\Desktop\Курсовая работа\Курсовая работа\Отделение\obj\Debug\Отделение.РасчетПремии.resources
+C:\Users\шу\Desktop\Курсовая работа\Курсовая работа\Отделение\obj\Debug\Отделение.РедГрупп.resources
+C:\Users\шу\Desktop\Курсовая работа\Курсовая работа\Отделение\obj\Debug\Отделение.Добавить.resources
+C:\Users\шу\Desktop\Курсовая работа\Курсовая работа\Отделение\obj\Debug\Отделение.ДобЗан.resources
+C:\Users\шу\Desktop\Курсовая работа\Курсовая работа\Отделение\obj\Debug\Отделение.Занятия.resources
+C:\Users\шу\Desktop\Курсовая работа\Курсовая работа\Отделение\obj\Debug\Отделение.ДобПрепод.resources
+C:\Users\шу\Desktop\Курсовая работа\Курсовая работа\Отделение\obj\Debug\Отделение.РедПрепод.resources
+C:\Users\шу\Desktop\Курсовая работа\Курсовая работа\Отделение\obj\Debug\Отделение.ДобавлениеСтуд.resources
+C:\Users\шу\Desktop\Курсовая работа\Курсовая работа\Отделение\obj\Debug\Отделение.Досье.resources
+C:\Users\шу\Desktop\Курсовая работа\Курсовая работа\Отделение\obj\Debug\Отделение.РедСтуд.resources
+C:\Users\шу\Desktop\Курсовая работа\Курсовая работа\Отделение\obj\Debug\Отделение.РедЭкз.resources
+C:\Users\шу\Desktop\Курсовая работа\Курсовая работа\Отделение\obj\Debug\Отделение.Экз.resources
+C:\Users\шу\Desktop\Курсовая работа\Курсовая работа\Отделение\obj\Debug\Отделение.ОкноВхода.resources
+C:\Users\шу\Desktop\Курсовая работа\Курсовая работа\Отделение\obj\Debug\Отделение.vbproj.GenerateResource.cache
+C:\Users\шу\Desktop\Курсовая работа\Курсовая работа\Отделение\obj\Debug\Отделение.vbproj.CoreCompileInputs.cache
+C:\Users\шу\Desktop\Курсовая работа\Курсовая работа\Отделение\obj\Debug\Отделение.vbproj.CopyComplete
+C:\Users\шу\Desktop\Курсовая работа\Курсовая работа\Отделение\obj\Debug\Отделение.exe
+C:\Users\шу\Desktop\Курсовая работа\Курсовая работа\Отделение\obj\Debug\Отделение.xml
+C:\Users\шу\Desktop\Курсовая работа\Курсовая работа\Отделение\obj\Debug\Отделение.pdb
+E:\Курсовая работа111111111111111111\Курсовая работа\Отделение\bin\Debug\Пароли.accdb
+E:\Курсовая работа111111111111111111\Курсовая работа\Отделение\bin\Debug\Новые базы данны.accdb
+E:\Курсовая работа111111111111111111\Курсовая работа\Отделение\bin\Debug\Отделение.exe.config
+E:\Курсовая работа111111111111111111\Курсовая работа\Отделение\bin\Debug\Отделение.exe
+E:\Курсовая работа111111111111111111\Курсовая работа\Отделение\bin\Debug\Отделение.pdb
+E:\Курсовая работа111111111111111111\Курсовая работа\Отделение\bin\Debug\Отделение.xml
+E:\Курсовая работа111111111111111111\Курсовая работа\Отделение\bin\Debug\FontAwesome.Sharp.dll
+E:\Курсовая работа111111111111111111\Курсовая работа\Отделение\obj\Debug\Отделение.vbproj.AssemblyReference.cache
+E:\Курсовая работа111111111111111111\Курсовая работа\Отделение\obj\Debug\Отделение.vbproj.SuggestedBindingRedirects.cache
+E:\Курсовая работа111111111111111111\Курсовая работа\Отделение\obj\Debug\Отделение.Form1.resources
+E:\Курсовая работа111111111111111111\Курсовая работа\Отделение\obj\Debug\Отделение.Resources.resources
+E:\Курсовая работа111111111111111111\Курсовая работа\Отделение\obj\Debug\Отделение.Выговоры.resources
+E:\Курсовая работа111111111111111111\Курсовая работа\Отделение\obj\Debug\Отделение.ДобавлениеВыговора.resources
+E:\Курсовая работа111111111111111111\Курсовая работа\Отделение\obj\Debug\Отделение.РедактВыговоры.resources
+E:\Курсовая работа111111111111111111\Курсовая работа\Отделение\obj\Debug\Отделение.user.resources
+E:\Курсовая работа111111111111111111\Курсовая работа\Отделение\obj\Debug\Отделение.Премия.resources
+E:\Курсовая работа111111111111111111\Курсовая работа\Отделение\obj\Debug\Отделение.РасчетПремии.resources
+E:\Курсовая работа111111111111111111\Курсовая работа\Отделение\obj\Debug\Отделение.РедГрупп.resources
+E:\Курсовая работа111111111111111111\Курсовая работа\Отделение\obj\Debug\Отделение.Добавить.resources
+E:\Курсовая работа111111111111111111\Курсовая работа\Отделение\obj\Debug\Отделение.ДобЗан.resources
+E:\Курсовая работа111111111111111111\Курсовая работа\Отделение\obj\Debug\Отделение.Занятия.resources
+E:\Курсовая работа111111111111111111\Курсовая работа\Отделение\obj\Debug\Отделение.ДобПрепод.resources
+E:\Курсовая работа111111111111111111\Курсовая работа\Отделение\obj\Debug\Отделение.РедПрепод.resources
+E:\Курсовая работа111111111111111111\Курсовая работа\Отделение\obj\Debug\Отделение.ДобавлениеСтуд.resources
+E:\Курсовая работа111111111111111111\Курсовая работа\Отделение\obj\Debug\Отделение.Досье.resources
+E:\Курсовая работа111111111111111111\Курсовая работа\Отделение\obj\Debug\Отделение.РедСтуд.resources
+E:\Курсовая работа111111111111111111\Курсовая работа\Отделение\obj\Debug\Отделение.РедЭкз.resources
+E:\Курсовая работа111111111111111111\Курсовая работа\Отделение\obj\Debug\Отделение.Экз.resources
+E:\Курсовая работа111111111111111111\Курсовая работа\Отделение\obj\Debug\Отделение.ОкноВхода.resources
+E:\Курсовая работа111111111111111111\Курсовая работа\Отделение\obj\Debug\Отделение.vbproj.GenerateResource.cache
+E:\Курсовая работа111111111111111111\Курсовая работа\Отделение\obj\Debug\Отделение.vbproj.CoreCompileInputs.cache
+E:\Курсовая работа111111111111111111\Курсовая работа\Отделение\obj\Debug\Отделение.vbproj.CopyComplete
+E:\Курсовая работа111111111111111111\Курсовая работа\Отделение\obj\Debug\Отделение.exe
+E:\Курсовая работа111111111111111111\Курсовая работа\Отделение\obj\Debug\Отделение.xml
+E:\Курсовая работа111111111111111111\Курсовая работа\Отделение\obj\Debug\Отделение.pdb
+C:\Users\шу\Desktop\Курсач\Курсовая работа\Отделение\bin\Debug\Пароли.accdb
+C:\Users\шу\Desktop\Курсач\Курсовая работа\Отделение\bin\Debug\Новые базы данны.accdb
+C:\Users\шу\Desktop\Курсач\Курсовая работа\Отделение\bin\Debug\Отделение.exe.config
+C:\Users\шу\Desktop\Курсач\Курсовая работа\Отделение\bin\Debug\Отделение.exe
+C:\Users\шу\Desktop\Курсач\Курсовая работа\Отделение\bin\Debug\Отделение.pdb
+C:\Users\шу\Desktop\Курсач\Курсовая работа\Отделение\bin\Debug\Отделение.xml
+C:\Users\шу\Desktop\Курсач\Курсовая работа\Отделение\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\шу\Desktop\Курсач\Курсовая работа\Отделение\obj\Debug\Отделение.vbproj.AssemblyReference.cache
+C:\Users\шу\Desktop\Курсач\Курсовая работа\Отделение\obj\Debug\Отделение.vbproj.SuggestedBindingRedirects.cache
+C:\Users\шу\Desktop\Курсач\Курсовая работа\Отделение\obj\Debug\Отделение.Form1.resources
+C:\Users\шу\Desktop\Курсач\Курсовая работа\Отделение\obj\Debug\Отделение.Resources.resources
+C:\Users\шу\Desktop\Курсач\Курсовая работа\Отделение\obj\Debug\Отделение.Выговоры.resources
+C:\Users\шу\Desktop\Курсач\Курсовая работа\Отделение\obj\Debug\Отделение.ДобавлениеВыговора.resources
+C:\Users\шу\Desktop\Курсач\Курсовая работа\Отделение\obj\Debug\Отделение.РедактВыговоры.resources
+C:\Users\шу\Desktop\Курсач\Курсовая работа\Отделение\obj\Debug\Отделение.user.resources
+C:\Users\шу\Desktop\Курсач\Курсовая работа\Отделение\obj\Debug\Отделение.Премия.resources
+C:\Users\шу\Desktop\Курсач\Курсовая работа\Отделение\obj\Debug\Отделение.РасчетПремии.resources
+C:\Users\шу\Desktop\Курсач\Курсовая работа\Отделение\obj\Debug\Отделение.РедГрупп.resources
+C:\Users\шу\Desktop\Курсач\Курсовая работа\Отделение\obj\Debug\Отделение.Добавить.resources
+C:\Users\шу\Desktop\Курсач\Курсовая работа\Отделение\obj\Debug\Отделение.ДобЗан.resources
+C:\Users\шу\Desktop\Курсач\Курсовая работа\Отделение\obj\Debug\Отделение.Занятия.resources
+C:\Users\шу\Desktop\Курсач\Курсовая работа\Отделение\obj\Debug\Отделение.ДобПрепод.resources
+C:\Users\шу\Desktop\Курсач\Курсовая работа\Отделение\obj\Debug\Отделение.РедПрепод.resources
+C:\Users\шу\Desktop\Курсач\Курсовая работа\Отделение\obj\Debug\Отделение.ДобавлениеСтуд.resources
+C:\Users\шу\Desktop\Курсач\Курсовая работа\Отделение\obj\Debug\Отделение.Досье.resources
+C:\Users\шу\Desktop\Курсач\Курсовая работа\Отделение\obj\Debug\Отделение.РедСтуд.resources
+C:\Users\шу\Desktop\Курсач\Курсовая работа\Отделение\obj\Debug\Отделение.РедЭкз.resources
+C:\Users\шу\Desktop\Курсач\Курсовая работа\Отделение\obj\Debug\Отделение.Экз.resources
+C:\Users\шу\Desktop\Курсач\Курсовая работа\Отделение\obj\Debug\Отделение.ОкноВхода.resources
+C:\Users\шу\Desktop\Курсач\Курсовая работа\Отделение\obj\Debug\Отделение.vbproj.GenerateResource.cache
+C:\Users\шу\Desktop\Курсач\Курсовая работа\Отделение\obj\Debug\Отделение.vbproj.CoreCompileInputs.cache
+C:\Users\шу\Desktop\Курсач\Курсовая работа\Отделение\obj\Debug\Отделение.vbproj.CopyComplete
+C:\Users\шу\Desktop\Курсач\Курсовая работа\Отделение\obj\Debug\Отделение.exe
+C:\Users\шу\Desktop\Курсач\Курсовая работа\Отделение\obj\Debug\Отделение.xml
+C:\Users\шу\Desktop\Курсач\Курсовая работа\Отделение\obj\Debug\Отделение.pdb
+E:\5 семестр\VB\ОСНОВНАЯ РАБОТА\Курсовая работа с небольшими изменеиями\Отделение\bin\Debug\Пароли.accdb
+E:\5 семестр\VB\ОСНОВНАЯ РАБОТА\Курсовая работа с небольшими изменеиями\Отделение\bin\Debug\Новые базы данны.accdb
+E:\5 семестр\VB\ОСНОВНАЯ РАБОТА\Курсовая работа с небольшими изменеиями\Отделение\bin\Debug\Отделение.exe.config
+E:\5 семестр\VB\ОСНОВНАЯ РАБОТА\Курсовая работа с небольшими изменеиями\Отделение\bin\Debug\Отделение.exe
+E:\5 семестр\VB\ОСНОВНАЯ РАБОТА\Курсовая работа с небольшими изменеиями\Отделение\bin\Debug\Отделение.pdb
+E:\5 семестр\VB\ОСНОВНАЯ РАБОТА\Курсовая работа с небольшими изменеиями\Отделение\bin\Debug\Отделение.xml
+E:\5 семестр\VB\ОСНОВНАЯ РАБОТА\Курсовая работа с небольшими изменеиями\Отделение\bin\Debug\FontAwesome.Sharp.dll
+E:\5 семестр\VB\ОСНОВНАЯ РАБОТА\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.vbproj.AssemblyReference.cache
+E:\5 семестр\VB\ОСНОВНАЯ РАБОТА\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.vbproj.SuggestedBindingRedirects.cache
+E:\5 семестр\VB\ОСНОВНАЯ РАБОТА\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.Form1.resources
+E:\5 семестр\VB\ОСНОВНАЯ РАБОТА\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.Resources.resources
+E:\5 семестр\VB\ОСНОВНАЯ РАБОТА\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.Выговоры.resources
+E:\5 семестр\VB\ОСНОВНАЯ РАБОТА\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.ДобавлениеВыговора.resources
+E:\5 семестр\VB\ОСНОВНАЯ РАБОТА\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.РедактВыговоры.resources
+E:\5 семестр\VB\ОСНОВНАЯ РАБОТА\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.user.resources
+E:\5 семестр\VB\ОСНОВНАЯ РАБОТА\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.Премия.resources
+E:\5 семестр\VB\ОСНОВНАЯ РАБОТА\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.РасчетПремии.resources
+E:\5 семестр\VB\ОСНОВНАЯ РАБОТА\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.РедГрупп.resources
+E:\5 семестр\VB\ОСНОВНАЯ РАБОТА\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.Добавить.resources
+E:\5 семестр\VB\ОСНОВНАЯ РАБОТА\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.ДобЗан.resources
+E:\5 семестр\VB\ОСНОВНАЯ РАБОТА\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.Занятия.resources
+E:\5 семестр\VB\ОСНОВНАЯ РАБОТА\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.ДобПрепод.resources
+E:\5 семестр\VB\ОСНОВНАЯ РАБОТА\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.РедПрепод.resources
+E:\5 семестр\VB\ОСНОВНАЯ РАБОТА\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.ДобавлениеСтуд.resources
+E:\5 семестр\VB\ОСНОВНАЯ РАБОТА\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.Досье.resources
+E:\5 семестр\VB\ОСНОВНАЯ РАБОТА\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.РедСтуд.resources
+E:\5 семестр\VB\ОСНОВНАЯ РАБОТА\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.РедЭкз.resources
+E:\5 семестр\VB\ОСНОВНАЯ РАБОТА\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.Экз.resources
+E:\5 семестр\VB\ОСНОВНАЯ РАБОТА\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.ОкноВхода.resources
+E:\5 семестр\VB\ОСНОВНАЯ РАБОТА\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.vbproj.GenerateResource.cache
+E:\5 семестр\VB\ОСНОВНАЯ РАБОТА\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.vbproj.CoreCompileInputs.cache
+E:\5 семестр\VB\ОСНОВНАЯ РАБОТА\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.vbproj.CopyComplete
+E:\5 семестр\VB\ОСНОВНАЯ РАБОТА\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.exe
+E:\5 семестр\VB\ОСНОВНАЯ РАБОТА\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.xml
+E:\5 семестр\VB\ОСНОВНАЯ РАБОТА\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.pdb
+C:\Users\vi\Desktop\Курсовая работа с небольшими изменеиями\Отделение\bin\Debug\Пароли.accdb
+C:\Users\vi\Desktop\Курсовая работа с небольшими изменеиями\Отделение\bin\Debug\Новые базы данны.accdb
+C:\Users\vi\Desktop\Курсовая работа с небольшими изменеиями\Отделение\bin\Debug\Отделение.exe.config
+C:\Users\vi\Desktop\Курсовая работа с небольшими изменеиями\Отделение\bin\Debug\Отделение.exe
+C:\Users\vi\Desktop\Курсовая работа с небольшими изменеиями\Отделение\bin\Debug\Отделение.pdb
+C:\Users\vi\Desktop\Курсовая работа с небольшими изменеиями\Отделение\bin\Debug\Отделение.xml
+C:\Users\vi\Desktop\Курсовая работа с небольшими изменеиями\Отделение\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\vi\Desktop\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.vbproj.AssemblyReference.cache
+C:\Users\vi\Desktop\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.vbproj.SuggestedBindingRedirects.cache
+C:\Users\vi\Desktop\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.Form1.resources
+C:\Users\vi\Desktop\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.Resources.resources
+C:\Users\vi\Desktop\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.Выговоры.resources
+C:\Users\vi\Desktop\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.ДобавлениеВыговора.resources
+C:\Users\vi\Desktop\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.РедактВыговоры.resources
+C:\Users\vi\Desktop\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.user.resources
+C:\Users\vi\Desktop\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.Премия.resources
+C:\Users\vi\Desktop\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.РасчетПремии.resources
+C:\Users\vi\Desktop\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.РедГрупп.resources
+C:\Users\vi\Desktop\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.Добавить.resources
+C:\Users\vi\Desktop\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.ДобЗан.resources
+C:\Users\vi\Desktop\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.Занятия.resources
+C:\Users\vi\Desktop\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.ДобПрепод.resources
+C:\Users\vi\Desktop\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.РедПрепод.resources
+C:\Users\vi\Desktop\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.ДобавлениеСтуд.resources
+C:\Users\vi\Desktop\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.Досье.resources
+C:\Users\vi\Desktop\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.РедСтуд.resources
+C:\Users\vi\Desktop\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.РедЭкз.resources
+C:\Users\vi\Desktop\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.Экз.resources
+C:\Users\vi\Desktop\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.ОкноВхода.resources
+C:\Users\vi\Desktop\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.vbproj.GenerateResource.cache
+C:\Users\vi\Desktop\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.vbproj.CoreCompileInputs.cache
+C:\Users\vi\Desktop\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.vbproj.CopyComplete
+C:\Users\vi\Desktop\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.exe
+C:\Users\vi\Desktop\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.xml
+C:\Users\vi\Desktop\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.pdb
+C:\Users\vi\Desktop\Диплом Мой — копия\Курсовая работа с небольшими изменеиями\Отделение\bin\Debug\Пароли.accdb
+C:\Users\vi\Desktop\Диплом Мой — копия\Курсовая работа с небольшими изменеиями\Отделение\bin\Debug\Новые базы данны.accdb
+C:\Users\vi\Desktop\Диплом Мой — копия\Курсовая работа с небольшими изменеиями\Отделение\bin\Debug\Отделение.exe.config
+C:\Users\vi\Desktop\Диплом Мой — копия\Курсовая работа с небольшими изменеиями\Отделение\bin\Debug\Отделение.exe
+C:\Users\vi\Desktop\Диплом Мой — копия\Курсовая работа с небольшими изменеиями\Отделение\bin\Debug\Отделение.pdb
+C:\Users\vi\Desktop\Диплом Мой — копия\Курсовая работа с небольшими изменеиями\Отделение\bin\Debug\Отделение.xml
+C:\Users\vi\Desktop\Диплом Мой — копия\Курсовая работа с небольшими изменеиями\Отделение\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\vi\Desktop\Диплом Мой — копия\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.vbproj.AssemblyReference.cache
+C:\Users\vi\Desktop\Диплом Мой — копия\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.vbproj.SuggestedBindingRedirects.cache
+C:\Users\vi\Desktop\Диплом Мой — копия\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.Form1.resources
+C:\Users\vi\Desktop\Диплом Мой — копия\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.Resources.resources
+C:\Users\vi\Desktop\Диплом Мой — копия\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.Выговоры.resources
+C:\Users\vi\Desktop\Диплом Мой — копия\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.ДобавлениеВыговора.resources
+C:\Users\vi\Desktop\Диплом Мой — копия\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.РедактВыговоры.resources
+C:\Users\vi\Desktop\Диплом Мой — копия\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.user.resources
+C:\Users\vi\Desktop\Диплом Мой — копия\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.Премия.resources
+C:\Users\vi\Desktop\Диплом Мой — копия\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.РасчетПремии.resources
+C:\Users\vi\Desktop\Диплом Мой — копия\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.РедГрупп.resources
+C:\Users\vi\Desktop\Диплом Мой — копия\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.Добавить.resources
+C:\Users\vi\Desktop\Диплом Мой — копия\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.ДобЗан.resources
+C:\Users\vi\Desktop\Диплом Мой — копия\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.Занятия.resources
+C:\Users\vi\Desktop\Диплом Мой — копия\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.ДобПрепод.resources
+C:\Users\vi\Desktop\Диплом Мой — копия\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.РедПрепод.resources
+C:\Users\vi\Desktop\Диплом Мой — копия\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.ДобавлениеСтуд.resources
+C:\Users\vi\Desktop\Диплом Мой — копия\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.Досье.resources
+C:\Users\vi\Desktop\Диплом Мой — копия\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.РедСтуд.resources
+C:\Users\vi\Desktop\Диплом Мой — копия\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.РедЭкз.resources
+C:\Users\vi\Desktop\Диплом Мой — копия\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.Экз.resources
+C:\Users\vi\Desktop\Диплом Мой — копия\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.ОкноВхода.resources
+C:\Users\vi\Desktop\Диплом Мой — копия\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.vbproj.GenerateResource.cache
+C:\Users\vi\Desktop\Диплом Мой — копия\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.vbproj.CoreCompileInputs.cache
+C:\Users\vi\Desktop\Диплом Мой — копия\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.vbproj.CopyComplete
+C:\Users\vi\Desktop\Диплом Мой — копия\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.exe
+C:\Users\vi\Desktop\Диплом Мой — копия\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.xml
+C:\Users\vi\Desktop\Диплом Мой — копия\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.pdb
+C:\Users\admin\Desktop\Диплом Мой остался текст\Курсовая работа с небольшими изменеиями\Отделение\bin\Debug\Пароли.accdb
+C:\Users\admin\Desktop\Диплом Мой остался текст\Курсовая работа с небольшими изменеиями\Отделение\bin\Debug\Новые базы данны.accdb
+C:\Users\admin\Desktop\Диплом Мой остался текст\Курсовая работа с небольшими изменеиями\Отделение\bin\Debug\Отделение.exe.config
+C:\Users\admin\Desktop\Диплом Мой остался текст\Курсовая работа с небольшими изменеиями\Отделение\bin\Debug\Отделение.exe
+C:\Users\admin\Desktop\Диплом Мой остался текст\Курсовая работа с небольшими изменеиями\Отделение\bin\Debug\Отделение.pdb
+C:\Users\admin\Desktop\Диплом Мой остался текст\Курсовая работа с небольшими изменеиями\Отделение\bin\Debug\Отделение.xml
+C:\Users\admin\Desktop\Диплом Мой остался текст\Курсовая работа с небольшими изменеиями\Отделение\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\admin\Desktop\Диплом Мой остался текст\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.vbproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Диплом Мой остался текст\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.Form1.resources
+C:\Users\admin\Desktop\Диплом Мой остался текст\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.Resources.resources
+C:\Users\admin\Desktop\Диплом Мой остался текст\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.Выговоры.resources
+C:\Users\admin\Desktop\Диплом Мой остался текст\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.ДобавлениеВыговора.resources
+C:\Users\admin\Desktop\Диплом Мой остался текст\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.РедактВыговоры.resources
+C:\Users\admin\Desktop\Диплом Мой остался текст\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.user.resources
+C:\Users\admin\Desktop\Диплом Мой остался текст\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.Премия.resources
+C:\Users\admin\Desktop\Диплом Мой остался текст\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.РасчетПремии.resources
+C:\Users\admin\Desktop\Диплом Мой остался текст\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.РедГрупп.resources
+C:\Users\admin\Desktop\Диплом Мой остался текст\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.Добавить.resources
+C:\Users\admin\Desktop\Диплом Мой остался текст\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.ДобЗан.resources
+C:\Users\admin\Desktop\Диплом Мой остался текст\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.Занятия.resources
+C:\Users\admin\Desktop\Диплом Мой остался текст\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.ДобПрепод.resources
+C:\Users\admin\Desktop\Диплом Мой остался текст\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.РедПрепод.resources
+C:\Users\admin\Desktop\Диплом Мой остался текст\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.ДобавлениеСтуд.resources
+C:\Users\admin\Desktop\Диплом Мой остался текст\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.Досье.resources
+C:\Users\admin\Desktop\Диплом Мой остался текст\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.РедСтуд.resources
+C:\Users\admin\Desktop\Диплом Мой остался текст\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.РедЭкз.resources
+C:\Users\admin\Desktop\Диплом Мой остался текст\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.Экз.resources
+C:\Users\admin\Desktop\Диплом Мой остался текст\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.ОкноВхода.resources
+C:\Users\admin\Desktop\Диплом Мой остался текст\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.vbproj.GenerateResource.cache
+C:\Users\admin\Desktop\Диплом Мой остался текст\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.vbproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Диплом Мой остался текст\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.vbproj.CopyComplete
+C:\Users\admin\Desktop\Диплом Мой остался текст\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.exe
+C:\Users\admin\Desktop\Диплом Мой остался текст\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.xml
+C:\Users\admin\Desktop\Диплом Мой остался текст\Курсовая работа с небольшими изменеиями\Отделение\obj\Debug\Отделение.pdb

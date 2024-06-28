@@ -1,0 +1,336 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Отделение
+</name>
+</assembly>
+<members>
+<member name="T:Отделение.My.Resources.Resources">
+<summary>
+  Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+</summary>
+</member>
+<member name="P:Отделение.My.Resources.Resources.ResourceManager">
+<summary>
+  Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+</summary>
+</member>
+<member name="P:Отделение.My.Resources.Resources.Culture">
+<summary>
+  Перезаписывает свойство CurrentUICulture текущего потока для всех
+  обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+</summary>
+</member>
+<member name="P:Отделение.My.Resources.Resources.Закрыть">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Отделение.My.Resources.Resources.Лого">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Отделение.My.Resources.Resources.Развернутьpng">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Отделение.My.Resources.Resources.Свернуть">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSet.ВыговорыDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSet.ГруппаDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSet.ЗанятияDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSet.ОлимпиадаDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSet.ПремияDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSet.СтудентыDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSet.УчастникиDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSet.УчителяDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSet.ЭкзаменDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSet.ВыговорыRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSet.ГруппаRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSet.ЗанятияRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSet.ОлимпиадаRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSet.ПремияRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSet.СтудентыRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSet.УчастникиRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSet.УчителяRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSet.ЭкзаменRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSet.ВыговорыRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSet.ГруппаRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSet.ЗанятияRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSet.ОлимпиадаRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSet.ПремияRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSet.СтудентыRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSet.УчастникиRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSet.УчителяRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSet.ЭкзаменRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSetTableAdapters.ВыговорыTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSetTableAdapters.ГруппаTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSetTableAdapters.ЗанятияTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSetTableAdapters.ОлимпиадаTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSetTableAdapters.ПремияTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSetTableAdapters.СтудентыTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSetTableAdapters.УчастникиTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSetTableAdapters.УчителяTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSetTableAdapters.ЭкзаменTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Отделение.Новые_базы_данныDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Отделение.Новые_базы_данныDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Отделение.Новые_базы_данныDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Отделение.Новые_базы_данныDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Отделение.Новые_базы_данныDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Отделение.Новые_базы_данныDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Отделение.Новые_базы_данныDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Отделение.Новые_базы_данныDataSetTableAdapters.TableAdapterManager.UpdateAll(Отделение.Новые_базы_данныDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Отделение.Новые_базы_данныDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Отделение.ПаролиDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Отделение.ПаролиDataSet.ПаролиDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Отделение.ПаролиDataSet.ПаролиRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Отделение.ПаролиDataSet.ПаролиRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Отделение.ПаролиDataSetTableAdapters.ПаролиTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Отделение.ПаролиDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Отделение.ПаролиDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Отделение.ПаролиDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Отделение.ПаролиDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Отделение.ПаролиDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Отделение.ПаролиDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Отделение.ПаролиDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Отделение.ПаролиDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Отделение.ПаролиDataSetTableAdapters.TableAdapterManager.UpdateAll(Отделение.ПаролиDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Отделение.ПаролиDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Отделение.ПаролиDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

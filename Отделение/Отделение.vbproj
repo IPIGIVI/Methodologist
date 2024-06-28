@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{41CF6B6F-18E1-48A9-8D65-64113A7EF77D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Отделение.My.MyApplication</StartupObject>
+    <RootNamespace>Отделение</RootNamespace>
+    <AssemblyName>Отделение</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Отделение.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DefineConstants>Добавить="Значение1"</DefineConstants>
+    <GenerateSerializationAssemblies>On</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Отделение.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FontAwesome.Sharp, Version=6.1.1.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.6.1.1\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="proverki.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="RGBcolor.vb" />
+    <Compile Include="Начальная страница\Выговоры\Module1.vb" />
+    <Compile Include="Начальная страница\Выговоры\Выговоры.Designer.vb">
+      <DependentUpon>Выговоры.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Начальная страница\Выговоры\Выговоры.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Начальная страница\Выговоры\ДобавлениеВыговора.Designer.vb">
+      <DependentUpon>ДобавлениеВыговора.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Начальная страница\Выговоры\ДобавлениеВыговора.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Начальная страница\Выговоры\РедактВыговоры.Designer.vb">
+      <DependentUpon>РедактВыговоры.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Начальная страница\Выговоры\РедактВыговоры.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Начальная страница\Пользователи\user.Designer.vb">
+      <DependentUpon>user.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Начальная страница\Пользователи\user.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Начальная страница\Премия\Премия.Designer.vb">
+      <DependentUpon>Премия.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Начальная страница\Премия\Премия.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Начальная страница\Премия\РасчетПремии.Designer.vb">
+      <DependentUpon>РасчетПремии.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Начальная страница\Премия\РасчетПремии.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Начальная страница\Редакт\Группа\РедГрупп.Designer.vb">
+      <DependentUpon>РедГрупп.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Начальная страница\Редакт\Группа\РедГрупп.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Начальная страница\Редакт\Добавить.Designer.vb">
+      <DependentUpon>Добавить.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Начальная страница\Редакт\Добавить.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Начальная страница\Редакт\Доп.занятия\ДобЗан.Designer.vb">
+      <DependentUpon>ДобЗан.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Начальная страница\Редакт\Доп.занятия\ДобЗан.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Начальная страница\Редакт\Доп.занятия\Занятия.Designer.vb">
+      <DependentUpon>Занятия.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Начальная страница\Редакт\Доп.занятия\Занятия.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Начальная страница\Редакт\Препод\ДобПрепод.Designer.vb">
+      <DependentUpon>ДобПрепод.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Начальная страница\Редакт\Препод\ДобПрепод.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Начальная страница\Редакт\Препод\РедПрепод.Designer.vb">
+      <DependentUpon>РедПрепод.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Начальная страница\Редакт\Препод\РедПрепод.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Начальная страница\Редакт\Студенты\ДобавлениеСтуд.Designer.vb">
+      <DependentUpon>ДобавлениеСтуд.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Начальная страница\Редакт\Студенты\ДобавлениеСтуд.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Начальная страница\Редакт\Студенты\Досье.Designer.vb">
+      <DependentUpon>Досье.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Начальная страница\Редакт\Студенты\Досье.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Начальная страница\Редакт\Студенты\РедСтуд.Designer.vb">
+      <DependentUpon>РедСтуд.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Начальная страница\Редакт\Студенты\РедСтуд.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Начальная страница\Экзамен\РедЭкз.Designer.vb">
+      <DependentUpon>РедЭкз.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Начальная страница\Экзамен\РедЭкз.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Начальная страница\Экзамен\Экз.Designer.vb">
+      <DependentUpon>Экз.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Начальная страница\Экзамен\Экз.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Новые_базы_данныDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Новые_базы_данныDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ОкноВхода.Designer.vb">
+      <DependentUpon>ОкноВхода.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ОкноВхода.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ПаролиDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ПаролиDataSet.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Начальная страница\Выговоры\Выговоры.resx">
+      <DependentUpon>Выговоры.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Начальная страница\Выговоры\ДобавлениеВыговора.resx">
+      <DependentUpon>ДобавлениеВыговора.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Начальная страница\Выговоры\РедактВыговоры.resx">
+      <DependentUpon>РедактВыговоры.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Начальная страница\Пользователи\user.resx">
+      <DependentUpon>user.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Начальная страница\Премия\Премия.resx">
+      <DependentUpon>Премия.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Начальная страница\Премия\РасчетПремии.resx">
+      <DependentUpon>РасчетПремии.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Начальная страница\Редакт\Группа\РедГрупп.resx">
+      <DependentUpon>РедГрупп.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Начальная страница\Редакт\Добавить.resx">
+      <DependentUpon>Добавить.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Начальная страница\Редакт\Доп.занятия\ДобЗан.resx">
+      <DependentUpon>ДобЗан.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Начальная страница\Редакт\Доп.занятия\Занятия.resx">
+      <DependentUpon>Занятия.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Начальная страница\Редакт\Препод\ДобПрепод.resx">
+      <DependentUpon>ДобПрепод.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Начальная страница\Редакт\Препод\РедПрепод.resx">
+      <DependentUpon>РедПрепод.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Начальная страница\Редакт\Студенты\ДобавлениеСтуд.resx">
+      <DependentUpon>ДобавлениеСтуд.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Начальная страница\Редакт\Студенты\Досье.resx">
+      <DependentUpon>Досье.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Начальная страница\Редакт\Студенты\РедСтуд.resx">
+      <DependentUpon>РедСтуд.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Начальная страница\Экзамен\РедЭкз.resx">
+      <DependentUpon>РедЭкз.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Начальная страница\Экзамен\Экз.resx">
+      <DependentUpon>Экз.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ОкноВхода.resx">
+      <DependentUpon>ОкноВхода.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+    <None Include="Новые_базы_данныDataSet.xsc">
+      <DependentUpon>Новые_базы_данныDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Новые_базы_данныDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Новые_базы_данныDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Новые_базы_данныDataSet.xss">
+      <DependentUpon>Новые_базы_данныDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ПаролиDataSet.xsc">
+      <DependentUpon>ПаролиDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ПаролиDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ПаролиDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ПаролиDataSet.xss">
+      <DependentUpon>ПаролиDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Лого.png" />
+    <Content Include="Пароли.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\Закрыть.png" />
+    <None Include="Resources\Развернутьpng.png" />
+    <None Include="Resources\Свернуть.png" />
+    <Content Include="Новые базы данны.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
